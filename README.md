@@ -16,5 +16,6 @@ The application utilizes the OnClickListener interface to handle button clicks e
 When a button is clicked, the corresponding method is invoked to handle the input. For numeric buttons, the digits are appended to the expression displayed on the calculator screen. For operator buttons, the appropriate operator is added to the expression. For function buttons, the corresponding function is applied to the current expression.
 
 ## Screenshots
-<img src="app/src/main/res/drawable/screenshot07.png" width="200" /> <img src="app/src/main/res/drawable/screenshot03.png" width="200" /> <img src="app/src/main/res/drawable/screenshot04.png" width="200" /> 
-<img src="app/src/main/res/drawable/screenshot05.png" width="200" /> <img src="app/src/main/res/drawable/screenshot06.png" width="200" /> <img src="app/src/main/res/drawable/screenshot02.png" width="200" />
+<img src="app/src/main/res/drawable/screenshot07.png" width="200" /> <img src="app/src/main/res/drawable/screenshot03.png" width="200" /> 
+<img src="app/src/main/res/drawable/screenshot04.png" width="200" /> <img src="app/src/main/res/drawable/screenshot05.png" width="200" /> 
+<img src="app/src/main/res/drawable/screenshot06.png" width="200" /> <img src="app/src/main/res/drawable/screenshot02.png" width="200" />
