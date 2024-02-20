@@ -1,5 +1,5 @@
 
-# Basic Scientific Calculator Android App
+# Scientific Calculator Android App
 This is a simple scientific calculator Android application designed to perform basic arithmetic operations and some scientific functions.
 
 ## Features
